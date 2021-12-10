@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d861cc61.chunk.js",
+    "main.js.map": "/static/js/main.d861cc61.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.14f89290.js",
+    "runtime-main.js.map": "/static/js/runtime-main.14f89290.js.map",
+    "static/js/2.71879119.chunk.js": "/static/js/2.71879119.chunk.js",
+    "static/js/2.71879119.chunk.js.map": "/static/js/2.71879119.chunk.js.map",
+    "static/js/3.401d6a1e.chunk.js": "/static/js/3.401d6a1e.chunk.js",
+    "static/js/3.401d6a1e.chunk.js.map": "/static/js/3.401d6a1e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.71879119.chunk.js.LICENSE.txt": "/static/js/2.71879119.chunk.js.LICENSE.txt",
+    "static/media/bryan.8ca092ba.jpg": "/static/media/bryan.8ca092ba.jpg",
+    "static/media/code_typing.69f30dc0.gif": "/static/media/code_typing.69f30dc0.gif",
+    "static/media/gym.14403a6d.png": "/static/media/gym.14403a6d.png",
+    "static/media/keevashop_black_horiz.7e65d31b.png": "/static/media/keevashop_black_horiz.7e65d31b.png",
+    "static/media/learn.ccb9b281.png": "/static/media/learn.ccb9b281.png",
+    "static/media/salud.3d338961.png": "/static/media/salud.3d338961.png",
+    "static/media/surf.ed8e6f6d.png": "/static/media/surf.ed8e6f6d.png",
+    "static/media/travel.9ddbaaed.png": "/static/media/travel.9ddbaaed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14f89290.js",
+    "static/js/2.71879119.chunk.js",
+    "static/js/main.d861cc61.chunk.js"
+  ]
+}
